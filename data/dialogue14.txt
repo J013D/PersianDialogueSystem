@@ -1,0 +1,12 @@
+SYS:[Salutation(greeting)]"سلام خوش اومدین"
+USR:"سلام خانوم خسته نباشید"
+SYS:[Request(hmihy)]"در خدمتم"
+USR[Ask(localfood)]:"غذای محلی دارین؟"
+SYS:[Reply(localf)]"میرزاقاسمی، فسنجون، گمج کباب داریم؛ اناربیجم داریم. ترش شامی و ماهی کولی هم داریم."
+USR:[Ask(menu)]"ببخشید، میشه منوتون رو ببینم؟"
+SYS:[Reply(menu)]"بله بفرمایید، روی میز هم هست"
+USR:[Ask(expensive)]"چقدر گرون، توی خونه درست کنیم والا خیلی بیشتر میصرفه"
+SYS:[Reply(expensive)]"متاسفانه همه چی گرون شده"
+USR:"اوکی ممنون"
+SYS:[Retrieve(thanks)]"خواهش"
+USR:null
